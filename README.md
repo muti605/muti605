@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Mustafa.
 
+📱 I like custom ROM's and i am currently an official maintainer in CrDroid.
+🌱 I’m currently learning Flutter/Dart.
 📫 How to reach me?
   - [![Telegram Muti605](https://img.shields.io/badge/Telegram-❤-blue)](https://t.me/muti605)
   - [![XDA Muti605](https://img.shields.io/badge/XDA-❤-brown)](https://forum.xda-developers.com/member.php?u=7950187)
