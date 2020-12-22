@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Mustafa.
 
 - 📱 I like custom ROM's and i am currently an official maintainer in CrDroid.
-- 🌱 I’m currently learning Flutter/Dart.
+- 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me?
 
   - [![Telegram Muti605](https://img.shields.io/badge/Telegram-❤-blue)](https://t.me/muti605)
